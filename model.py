@@ -1,3 +1,10 @@
+# This code creates a UI for the user to post their posts on the social media
+# Author : Shreya Mitra
+# Created : Shreya Mitra
+# Date : 05.06.2019
+# Version : 1.1
+
+
 import sqlite3 as sql
 from os import path
 
